@@ -1,0 +1,11 @@
+.footer {
+  background: #023957;
+}
+.footerLogo {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 66px;
+  line-height: 77px;
+  padding-bottom: 32px;
+}

@@ -1,0 +1,10 @@
+.work {
+  background: url(../../../img/work/workBg.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.workLine {
+  width: 40vw;
+  height: 2px;
+  background-color: #09a7ca;
+}

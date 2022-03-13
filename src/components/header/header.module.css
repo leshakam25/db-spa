@@ -1,0 +1,32 @@
+.header {
+  min-height: 690px;
+  background: url(../img/headerBg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+}
+.headerLogo {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 66px;
+  line-height: 77px;
+  color: #023957;
+}
+
+.headerCard h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  color: #056088;
+}
+.headerCard p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 170%;
+  color: #434343;
+}

@@ -1,0 +1,65 @@
+.container {
+  max-width: 1472px;
+  margin: 0 auto;
+  padding: 32px 8px;
+}
+.hover:hover {
+  opacity: 0.6;
+}
+.button1 {
+  background: linear-gradient(104.58deg, #056088 10.57%, #09a7ca 96.62%);
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 170%;
+  color: #ffffff;
+  width: 169px;
+  height: 72px;
+}
+.text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #ffffff;
+  padding-bottom: 16px;
+}
+.subtitle {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 170%;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  color: #ffffff;
+}
+.subtitleColor {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 170%;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  color: #056088;
+}
+.subtitleBlack {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 170%;
+  color: #434343;
+}
+.textBlack {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  color: #434343;
+  padding-bottom: 24px;
+}
