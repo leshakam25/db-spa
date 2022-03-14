@@ -9,7 +9,7 @@ import { Box } from "@mui/system";
 
 function Home() {
   return (
-    <Box sx={{ paddingTop: "80px" }}>
+    <Box sx={{ top: "100px", position: "relative" }}>
       {" "}
       <div className="container">
         <Box

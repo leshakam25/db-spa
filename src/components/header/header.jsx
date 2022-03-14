@@ -5,7 +5,10 @@ import ResponsiveAppBar from "./responsiveAppBar";
 
 function Header() {
   return (
-    <Box className={s.header}>
+    <Box
+      sx={{ position: "absolute", width: "100vw", zIndex: "0" }}
+      className={s.header}
+    >
       <div className="container">
         <Box
           sx={{

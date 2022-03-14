@@ -46,6 +46,7 @@ const ResponsiveAppBar = () => {
   return (
     <AppBar
       sx={{
+        position: "static",
         maxWidth: "650px",
       }}
     >

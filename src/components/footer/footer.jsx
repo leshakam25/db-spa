@@ -3,7 +3,7 @@ import s from "./footer.module.css";
 
 function Footer() {
   return (
-    <div className={s.footer}>
+    <Box sx={{ position: "relative" }} className={s.footer}>
       <div className="container">
         <Box
           sx={{
@@ -247,7 +247,7 @@ function Footer() {
           </Box>
         </Box>
       </div>
-    </div>
+    </Box>
   );
 }
 
