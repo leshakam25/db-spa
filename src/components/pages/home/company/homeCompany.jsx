@@ -1,5 +1,5 @@
 import { Box } from "@mui/system";
-import s from "./company.module.css";
+import s from "./homeCompany.module.css";
 import img from "../../../img/company.png";
 import { Button } from "@mui/material";
 

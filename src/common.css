@@ -1,7 +1,15 @@
+a,
+a:hover,
+a:active,
+a:focus {
+  text-decoration: none;
+  color: inherit;
+}
+
 .container {
   max-width: 1472px;
   margin: 0 auto;
-  padding: 32px 8px;
+  padding: 3.4vh 1vw;
 }
 .pageTitle {
   font-family: "Poppins";
@@ -13,7 +21,7 @@
   color: #ffffff;
 }
 .hover:hover {
-  opacity: 0.6;
+  opacity: 0.8;
 }
 .gradientBg {
   background: linear-gradient(104.58deg, #056088 10.57%, #09a7ca 96.62%);
@@ -26,6 +34,7 @@
   font-size: 16px;
   line-height: 170%;
   color: #ffffff;
+  min-height: 72px;
 }
 .textItalic {
   font-family: "Poppins";

@@ -1,10 +1,10 @@
-import s from "./partners.module.css";
+import s from "./homePartners.module.css";
 import label1 from "../../../img/work/label1.png";
 import label2 from "../../../img/work/label2.png";
 import label3 from "../../../img/work/label3.png";
 import label4 from "../../../img/work/label4.png";
 import { Box } from "@mui/material";
-import PartnersForm from "./partnersForm";
+import PartnersForm from "./homePartnersForm";
 
 function Partners() {
   return (
@@ -15,6 +15,7 @@ function Partners() {
           flexDirection: "column",
           justifyContent: "space-between",
           alignItems: "center",
+          marginBottom: "10vh",
         }}
       >
         <Box

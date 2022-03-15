@@ -1,5 +1,5 @@
 import { Box } from "@mui/material";
-import s from "./services.module.css";
+import s from "./homeServices.module.css";
 import iconPens from "../../../img/services/pens.svg";
 import divan from "../../../img/services/divan.svg";
 import hammers from "../../../img/services/hammers.svg";

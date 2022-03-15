@@ -1,5 +1,5 @@
 import { Box, Typography, ButtonGroup, Button, TextField } from "@mui/material";
-import s from "./partners.module.css";
+import s from "./homePartners.module.css";
 
 function PartnersForm() {
   return (
@@ -40,11 +40,13 @@ function PartnersForm() {
           sx={{ minHeight: "62px" }}
         >
           <TextField
-            label="Enter your e-mail here "
             variant="standard"
             sx={{
-              width: "500px",
+              display: "flex",
+              justifyContent: "center",
+              width: "40vw",
               bgcolor: "white",
+              padding: "0 1vw",
             }}
           />
           <Button className="button1">Submit</Button>

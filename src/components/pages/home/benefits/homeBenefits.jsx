@@ -1,5 +1,5 @@
 import { Box, maxWidth } from "@mui/system";
-import s from "./benefits.module.css";
+import s from "./homeBenefits.module.css";
 import iconSuccess from "../../../img/iconSuccess.svg";
 
 function Benefits() {

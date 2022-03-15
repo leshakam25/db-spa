@@ -3,10 +3,11 @@ import s from "./footer.module.css";
 
 function Footer() {
   return (
-    <Box sx={{ position: "relative" }} className={s.footer}>
+    <Box sx={{ width: "100vw" }} className={s.footer}>
       <div className="container">
         <Box
           sx={{
+            width: "100%",
             display: "flex",
             flexDirection: "row",
             justifyContent: "space-between",
@@ -84,7 +85,7 @@ function Footer() {
               className="text"
               href="#"
             >
-              Home
+              Gallery
             </Link>
             <Link
               sx={{ color: "#ffffff" }}

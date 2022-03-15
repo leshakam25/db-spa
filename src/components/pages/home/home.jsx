@@ -1,9 +1,9 @@
 import s from "./home.module.css";
-import Company from "./company/company";
-import Services from "./services/services";
-import Benefits from "./benefits/benefits";
-import Work from "./work/work";
-import Partners from "./partners/partners";
+import Company from "./company/homeCompany";
+import Services from "./services/homeServices";
+import Benefits from "./benefits/homeBenefits";
+import Work from "./work/homeWork";
+import Partners from "./partners/homePartners";
 import { Button, Link, TextField } from "@mui/material";
 import { Box } from "@mui/system";
 

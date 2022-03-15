@@ -1,5 +1,5 @@
 import { Box, Button } from "@mui/material";
-import s from "./work.module.css";
+import s from "./homeWork.module.css";
 import ImageList from "./imageList";
 import workImg from "../../../img/work/workImg.png";
 
